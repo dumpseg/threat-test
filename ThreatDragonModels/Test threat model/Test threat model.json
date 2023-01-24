@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test threat model",
+    "owner": "John Smith",
+    "description": "this is a test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Mary Rose"
+  }
+}
